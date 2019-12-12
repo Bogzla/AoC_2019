@@ -13,4 +13,3 @@ for n in range(0,100):
         if pgm[0] == 19690720:
             print(100*n+v)
             exit(0)
-        #print(str(n) + ' - ' + str(v) + ' - ' + str(pgm[0]))
